@@ -7,6 +7,8 @@ public class run {
 		list.addLast(20);
 		list.addLast(30);
 		System.out.println("Hello World");
+		System.out.println("I've been pushed!");
+		
 	}
 
 }
